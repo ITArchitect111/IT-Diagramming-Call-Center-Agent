@@ -6,6 +6,7 @@ This project demonstrates a complete IT Diagram setup using:
 - **8 Task**
 - **3 Conditions**
 - **4 End Events**
+- **15 Flow**
 
 The diagram includes **Shapes**, **Legends**, **Styles**, and **Connections between shapes** . Designed and Queried using **Draw.io**, this setup is ideal for learning how to design Business Process Modeling and Notation base on specific process.
 
@@ -22,10 +23,11 @@ The diagram includes **Shapes**, **Legends**, **Styles**, and **Connections betw
 ## Repository Contents
 
 # Styles/
-- **Entity.txt**
-- **Data Store.txt**
-- **Data Process.txt**
-- **Data Arrow.txt**
+- **Start.txt**
+- **Activity.txt**
+- **Decision.txt**
+- **End Event.txt**
+- **Flow.txt**
 
 # Overview 
 ![Diagram](Overview/IT_Diagram_2.png)

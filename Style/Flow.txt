@@ -1,0 +1,9 @@
+edgeStyle=orthogonalEdgeStyle;
+rounded=0;orthogonalLoop=1;
+jettySize=auto;
+html=1;
+fillColor=#ffe6cc;
+strokeColor=#FF0000;
+flowAnimation=1;
+fontFamily=Times New Roman;
+fontStyle=1;

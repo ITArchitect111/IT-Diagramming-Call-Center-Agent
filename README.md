@@ -4,11 +4,11 @@
 This project demonstrates a complete IT Diagram setup using:
 - **1 Start**
 - **8 Task**
-- **3 Conditions**
-- **4 End Events**
+- **3 Gateway**
+- **4 End Event**
 - **15 Flow**
 
-The diagram includes **Shapes**, **Legends**, **Styles**, and **Connections between shapes** . Designed and Queried using **Draw.io**, this setup is ideal for learning how to design Business Process Modeling and Notation base on specific process.
+The diagram includes **Shapes**, **Legends**, **Styles**, and **Connections between shapes** . Designed and Queried using **Draw.io**, this setup is ideal for learning how to design Business Process Modeling and Notation base on Cal Center Agent task.
 
 ---
 
@@ -24,8 +24,8 @@ The diagram includes **Shapes**, **Legends**, **Styles**, and **Connections betw
 
 # Styles/
 - **Start.txt**
-- **Activity.txt**
-- **Decision.txt**
+- **Task.txt**
+- **Gateway.txt**
 - **End Event.txt**
 - **Flow.txt**
 
